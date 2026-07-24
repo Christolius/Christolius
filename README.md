@@ -2,7 +2,7 @@
 
 ### 🔭 About Me
 - 🎓 **Education:** RPL (Rekayasa Perangkat Lunak) at **SMK Telkom Malang**
-- 🔭 **Currently working on:** Nothing.
+- 🔭 **Currently working on:** Studying at school & Learning Rust.
 
 ### 📋 Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
