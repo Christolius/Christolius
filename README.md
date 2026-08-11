@@ -2,7 +2,7 @@
 
 ### 🔭 About Me
 - 🎓 **Education:** Currently studying RPL (Rekayasa Perangkat Lunak) at **SMK Telkom Malang**
-- 🔭 **Currently working on:** Studying at school & Learning TypeScript.
+- 🔭 **Currently working on:** [SoundCore API](https://github.com/Christolius/SoundCore-API) & Studying.
 
 ### 📋 Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
