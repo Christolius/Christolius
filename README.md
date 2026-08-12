@@ -19,4 +19,4 @@
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-%230078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 🚧 Active Projects
-- SoundCore API: An unofficial Python API for interacting with SoundCore Bluetooth services on desktop.
+- [SoundCore API](https://github.com/Christolius/SoundCore-API): An unofficial Python API for interacting with SoundCore Bluetooth services on desktop.
