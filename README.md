@@ -2,7 +2,7 @@
 
 ### 🔭 About Me
 - 🎓 **Education:** Currently studying RPL (Rekayasa Perangkat Lunak) at **SMK Telkom Malang**
-- 🔭 **Currently working on:** [SoundCore API](https://github.com/Christolius/SoundCore-API) & Studying.
+- 🔭 **Currently working on:** Studying.
 
 ### 📋 Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -17,5 +17,6 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-%230078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🚧 Active Projects
+### 🚧 Projects
+- [Moklet Restaurant](https://christolius.github.io/Moklet-Restaurant): A fictional restaurant website created as a school project to practice frontend web development and user interface design.
 - [SoundCore API](https://github.com/Christolius/SoundCore-API): An unofficial Python API for interacting with SoundCore Bluetooth services on desktop.
